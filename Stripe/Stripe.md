@@ -1,4 +1,4 @@
-#Enable Credit Card Payments (Admin or MasterAdmin)
+# Enable Credit Card Payments (Admin or MasterAdmin)
 
 1 - Login with an Admin (or MasterAdmin) account.
 
@@ -13,7 +13,7 @@
 ---
 ---
 
-#Make a payment (As User)
+# Make a payment (As User)
 
     Preconditions: 
 
