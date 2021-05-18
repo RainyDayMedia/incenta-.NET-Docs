@@ -4,6 +4,8 @@ In order of having some cards to work with, there are a "Product Cards"  menu in
 
 ![ProductCardsList](./ProductCardsList.jpg)
 
+![ProductCards](./ProductCards.png)
+
 ## Usage 
 
 Click in the icon in the Shopping Cart page:
