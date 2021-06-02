@@ -25,6 +25,8 @@ Each feature not describe the multiple task and developments than they requiered
     -   Code optimization: Created reusable components, functions, modules and views.
     -   Addresses on Account files
     -   Oredr Confirmation e-mails
+    - 	Accepting Credit Card payments
+    - 	Shippment tracking
 
 ## Issues Fixed
     -   Import Products
@@ -32,6 +34,9 @@ Each feature not describe the multiple task and developments than they requiered
     -   Delete a program
     -   Order confirmation emails (address)
     -   Date and time stamps
+    - 	Framework updates
 
 ## Others
     -   Creation of new categories
+    - 	Reconfiguration of pipelines
+    - 	Misc support items
