@@ -5,6 +5,8 @@
 
 Each feature not describe the multiple task and developments than they requiered.
 
+[Design System & Component Library](https://www.figma.com/file/9lPFpxtmrOxjmUkgIMjQdT/Incenta-UI-Kit?node-id=1101%3A350)
+
 [Login With Card](./LoginWithCard/LoginWithCard.md)
 
 [Bar Coding](./BarCoding/BarCoding.md)
