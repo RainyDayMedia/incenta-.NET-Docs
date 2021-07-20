@@ -31,7 +31,7 @@
     1 - Go to MasterAdmin > Upload Tracking Info
     2 - Choose the Excel File.(3)
     3 - Click in the button "Process"(4)
-    
+
 ## (3)
 The base file for create the xlsx is in the following icon:
 ![TrakingButton](./bulk/excelBase.png)
@@ -40,4 +40,4 @@ The base file for create the xlsx is in the following icon:
 ![TrakingInfoModal](./bulk/fileProcesed.png)
 
 ### Notes:
-    - E-mail fields are optional, empty e-mail in a field means not email is sended.
+    - E-mail fields are optional – if you leave the e-mail fiedl empty NO email is sent.
