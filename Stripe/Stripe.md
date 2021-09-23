@@ -11,15 +11,16 @@
 ![Edit Program Accept Credit Card Payments](./EditProgramAcceptCreditCardPayments.jpg)
 
 ---
+
 ---
 
 # Make a payment (As User)
 
-    Preconditions: 
+    Preconditions:
 
-        - Accept Credit Card Payments is enabled for the program
+        - Accept Credit Card Payments is ENABLED for the program.
 
-        - Your cart have more points than your account has
+        - Your cart has MORE points than available for the account.
 
 1 - Login with an User account.
 
@@ -28,6 +29,7 @@
 ![Cart](./Cart.jpg)
 
 ## Notes:
+
 ### Cards for testing:
 
 - Payment succeeds: _4242 4242 4242 4242_
@@ -37,12 +39,14 @@
 - Payment is declined: _4000 0000 0000 9995_
 
 #### EXP: _08 / 24_
+
 #### CVC: _123_
+
 #### ZIP: _94107_
 
 ---
----
 
+---
 
 # List Credit Card Payments
 
@@ -53,7 +57,6 @@
 3 - Search the user and click in "Stripe Charges"
 
 ![Stripe Charges](./StripeCharges.jpg)
-
 
 # Refund a Card Payments
 
