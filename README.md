@@ -1,5 +1,4 @@
-#  incenta-.NET-Docs
-
+# incenta-.NET-Docs
 
 ## New Features
 
@@ -15,13 +14,14 @@ Each feature not describe the multiple task and developments than they requiered
 
 [Subdomains](./Subdomains/Subdomains.md)
 
-[Shipping traking Info](./Shipping/Shipping.md)
+[Shipping tracking Info](./Shipping/Shipping.md)
 
 [Catalog Visibility](./CatalogVisibility/CatalogVisibility.md)
 
 [Claim your reward](./ClaimYourReward/ClaimYourReward.md) WIP
 
 ## Improvements
+
     -   Code optimization: Created reusable components, functions, modules and views.
     -   Addresses on Account files
     -   Oredr Confirmation e-mails
@@ -29,6 +29,7 @@ Each feature not describe the multiple task and developments than they requiered
     - 	Shippment tracking
 
 ## Issues Fixed
+
     -   Import Products
     -   Import Users
     -   Delete a program
@@ -37,6 +38,7 @@ Each feature not describe the multiple task and developments than they requiered
     - 	Framework updates
 
 ## Others
+
     -   Creation of new categories
     - 	Reconfiguration of pipelines
     - 	Misc support items
