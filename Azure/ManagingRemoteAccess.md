@@ -1,5 +1,6 @@
 ##  Managing Access for Development
 
-When a developer needs to work on Incenta Reward's platform, the public IP address of the developer needs to be added the the White List under the SQL database. 
+When a developer needs to work on Incenta Reward's platform, the developer's public IP addressneeds to be added to the approved, White labeled, list under the SQL database inside of the Azure Dashboard. 
 
-![Add IP to Firewall](./azure-add-ip-to-firewall.webm.mov)
+![How to add an IP Address to the White List](./azure-add-ip-to-firewall.gif)
+
