@@ -20,6 +20,8 @@ Each feature not describe the multiple task and developments than they requiered
 
 [Claim your reward](./ClaimYourReward/ClaimYourReward.md) WIP
 
+[Azure](./Azure/ManagingRemoteAccess.md) WIP
+
 ## Improvements
 
     -   Code optimization: Created reusable components, functions, modules and views.
